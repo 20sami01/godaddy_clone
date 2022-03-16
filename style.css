@@ -467,6 +467,8 @@ margin-left: -10px;
     .btn{
         background: #fff;
         margin-top: 40px;
+	display:flex;
+        justify-content:center;
         border: 3px solid#000;
         text-decoration: none;
         color: #000;
